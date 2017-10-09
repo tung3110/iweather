@@ -109,6 +109,7 @@
 				E3B71D1F1F87357A00A472D0 /* Assets.xcassets */,
 				E3B71D211F87357A00A472D0 /* LaunchScreen.storyboard */,
 				E3B71D241F87357A00A472D0 /* Info.plist */,
+				E3B71D461F88758B00A472D0 /* Image */,
 				E3B71D131F87357A00A472D0 /* Supporting Files */,
 			);
 			path = iWeather;
@@ -138,6 +139,13 @@
 				E3B71D3A1F87357A00A472D0 /* Info.plist */,
 			);
 			path = iWeatherUITests;
+			sourceTree = "<group>";
+		};
+		E3B71D461F88758B00A472D0 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
